@@ -6,11 +6,12 @@ Create a singly linked list.
 Rotate the linked list to the right by k positions.
 Display the rotated linked list.
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Calculate the length (\(n\)) of the linked list by traversing it while keeping track of the tail node.
+2. Handle base cases: If the list is empty (head == null), contains only one node (head.next == null), or \(k = 0\), return the head immediately.
+3. Optimize \(k\): Update \(k = k \pmod n\). If \(k = 0\) after this operation, no rotation is needed; return the original head.
+4. Form a loop: Connect the tail node's next pointer to the original head node, making the list circular.
+5. Locate the new split point: Traverse \(n - k\) steps from the original head to find the new tail node of the rotated list.
+6. Break the loop: Set the head to newTail.next, and then set newTail.next = null to terminate the circular connection.
 
 ## Program:
 ```
