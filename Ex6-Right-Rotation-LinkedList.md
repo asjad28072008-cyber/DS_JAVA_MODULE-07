@@ -131,7 +131,8 @@ public class Node {
 
 ## Output:
 
-<img width="671" height="630" alt="image" src="https://github.com/user-attachments/assets/e1886a6f-13fd-4538-b811-0d98ebca3786" />
+
+<img width="950" height="233" alt="image" src="https://github.com/user-attachments/assets/91d278b1-9c56-4522-8758-c25b5a21a831" />
 
 
 
