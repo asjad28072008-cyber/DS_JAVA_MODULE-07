@@ -79,7 +79,8 @@ public class ArrayNesting {
 ```
 ## Output:
 
-<img width="807" height="435" alt="image" src="https://github.com/user-attachments/assets/b2dc953c-2f1b-4d39-9fb8-e245514548e6" />
+<img width="480" height="85" alt="image" src="https://github.com/user-attachments/assets/70c47a06-4abd-4da6-bb56-2bd07025d546" />
+
 
 
 ## Result:
