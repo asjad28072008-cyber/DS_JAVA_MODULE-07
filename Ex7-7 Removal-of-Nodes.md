@@ -111,7 +111,8 @@ public class RemoveLinkedListElements {
 ```
 ## Output:
 
-<img width="640" height="492" alt="image" src="https://github.com/user-attachments/assets/95dc702e-4a8c-4f6d-849d-08ffd2d59f26" />
+<img width="632" height="187" alt="image" src="https://github.com/user-attachments/assets/aa8cc46b-3a12-4d21-aa6e-9e209f0b4e09" />
+
 
 
 ## Result:
