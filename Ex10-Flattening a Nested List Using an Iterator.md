@@ -164,7 +164,8 @@ public class Main {
 
 ## Output:
 
-<img width="825" height="217" alt="image" src="https://github.com/user-attachments/assets/573787d5-b64f-4023-891a-349f8aef5fee" />
+<img width="652" height="81" alt="image" src="https://github.com/user-attachments/assets/d753cd42-fa51-43ef-a07d-745eadb549bf" />
+
 
 
 
