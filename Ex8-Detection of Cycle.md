@@ -126,7 +126,8 @@ public class Main {
 ```
 ## Output:
 
-<img width="852" height="312" alt="image" src="https://github.com/user-attachments/assets/07f9f098-3fd3-4d6c-8e2d-5ad311c2a474" />
+<img width="882" height="181" alt="image" src="https://github.com/user-attachments/assets/1ab469db-fdac-473f-b6d7-ecd6a97668fe" />
+
 
 
 ## Result:
